@@ -4,3 +4,4 @@ class ClaseA{
 		this.bar;
 	}
 }
+//feature-2
